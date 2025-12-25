@@ -20,4 +20,5 @@ int main() {
         +it;
         ++it;
     }
+      return 0;
 }
