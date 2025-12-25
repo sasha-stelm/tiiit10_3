@@ -17,7 +17,7 @@ int main() {
     while (it != end) {
         smatch match = *it;
         cout << match.str() << endl;
-        ++it;
+        +it;
         ++it;
     }
 }
